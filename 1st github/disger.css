@@ -1,0 +1,34 @@
+@font-face {
+    font-family: "bd";
+    src:url(fonts/EduQLDHand-VariableFont_wght.ttf);
+}
+
+#i1{
+    width: 300px;
+}
+#head1{
+    background-color: rgb(124, 30, 30);
+    color:rgb(23, 62, 146);
+
+}
+#ht1{
+    font-family:bd;
+}
+pre{
+    font-size: 3em;
+    font-family: Garamond;
+}
+#t1{
+    width: 800px;
+    height: 100px;
+}
+#tr1{
+    background-color:rgb(28, 28, 163);
+}
+#f1{
+    background-color:rgb(124, 30, 30) ;
+}
+#in1{
+    width:200px ;
+    height: 30px;
+}
